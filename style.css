@@ -7,10 +7,13 @@
     "nav main aside"
     "footer footer footer";
     background-color: rgb(56, 55, 55);
-    color: rgb(15, 221, 8);
+    color: rgb(221, 8, 107);
+    text-align: center;
+ 
 }
 header{
     grid-area: header;
+    color: rgb(113, 113, 210);
     
 
 
