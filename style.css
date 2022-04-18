@@ -20,10 +20,14 @@ header{
 }
 nav{
     grid-area: nav;
+<<<<<<< HEAD
     border: 2px solid rgb(247, 6, 118);
     color: rgb(247, 6, 118);
     margin-left: 10px;
       
+=======
+     
+>>>>>>> f9060dc66ba3ac86fe738f9b26ea79a5b9c152c3
 
 
 }
