@@ -1,31 +1,42 @@
 #content{
     display: grid;
   grid-template-rows: 1fr 5fr 1fr;
-  grid-template-columns: 3fr 10fr 3fr;
+  grid-template-columns: 4fr 10fr 2fr;
   grid-template-areas: 
     "header header header"
     "nav main aside"
     "footer footer footer";
-    background-color: rgb(56, 55, 55);
-    color: rgb(221, 8, 107);
+    background-color: rgb(116, 1, 55);
     text-align: center;
  
 }
 header{
     grid-area: header;
     color: rgb(113, 113, 210);
+    font-size: 25px;
     
 
 
 }
 nav{
     grid-area: nav;
+    border: 2px solid rgb(247, 6, 118);
+    color: rgb(247, 6, 118);
+    margin-left: 10px;
       
 
 
 }
+button{
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(247, 6, 118);
+}
 main{
     grid-area: main;
+    padding-left: 50px;
+    color: rgb(247, 6, 118);
     
 }
 aside{
@@ -35,6 +46,9 @@ aside{
 }
 footer{
     grid-area: footer;
-    background-color: rgb(100, 99, 99);
+    padding-top: 10px;
+    color: rgb(247, 6, 118);
+    border: 2px solid rgb(247, 6, 118);
+    margin-top: 10px;
 
 }
