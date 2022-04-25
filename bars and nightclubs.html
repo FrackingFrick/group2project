@@ -47,13 +47,22 @@
         var mapProp= {
         center:new google.maps.LatLng(65.0124,25.4682),
         zoom: 15,
+        styles: [
+      {
+        "featureType": "poi",
+        "stylers": [
+          { "visibility": "off" }
+        ]
+      }
+    ]
         };
         var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
         
         //marker snippet
         const mangobar=new google.maps.Marker({ 
         position: {lat:65.010450, lng:25.470890},
-        map:map,    
+        map:map,
+        title: "Mango Discobar",    
         })
     }
     </script>
