@@ -18,8 +18,7 @@ function renderOneProduct(product) {
     newElement.setAttribute("onclick", "showOnMap();"); //"onclick","showOnMap(${product.name})"
     newElement.innerHTML = `
                 <div class="special"><span class="item-name">${product.name}</span>
-                <span class="item-description">${product.description}</span>
-                <span class="item-misc">Our comment: ${product.misc}</span>
+                <span class="item-description">${product.description}.</span>
                 <span class="item-address">${product.info}</span>
                 <span class="item-price">Price level: ${product.price}</span>
                 <a href="${product.url}" class="item-url">Homepage: ${product.url}</a></div>
@@ -31,6 +30,19 @@ function renderOneProduct(product) {
 const findMap = document.getElementById("googleMap");
 
 function showOnMap(product) {
+    var mapProp= {
+        center:new google.maps.LatLng(65.0124,25.4682),
+        zoom: 15,
+        styles: [
+      {
+        "featureType": "poi",
+        "stylers": [
+          { "visibility": "off" }
+        ]
+      }
+    ]
+        };
+        var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 
 
     const mapMarker =  new google.maps.Marker({ 
@@ -39,5 +51,5 @@ function showOnMap(product) {
         title: `${product.name}`,    
         })
     
-    findMap.appendChild(mapMarker)
+    //findMap.appendChild(mapMarker)
 }
