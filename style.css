@@ -47,79 +47,7 @@ main{
     color: rgb(247, 6, 118);
     
 }
-#hyper{
-    background-color: rgb(116, 1, 55);
-    height: 80px;
-    border: 2px solid rgb(247, 6, 118);
-    margin: 10px;
 
-}
-#hyper:hover{
-    border: 2px solid rgb(113, 113, 210);
-}
-#park{
-    background-color: rgb(116, 1, 55);
-    height: 80px;
-    border: 2px solid rgb(247, 6, 118);
-    margin: 10px;
-}
-#park:hover{
-    border: 2px solid rgb(113, 113, 210);
-}
-#cafe{
-    background-color: rgb(116, 1, 55);
-    height: 80px;
-    border: 2px solid rgb(247, 6, 118);
-    margin: 10px;
-}
-#cafe:hover{
-    border: 2px solid rgb(113, 113, 210);
-}
-#bar{
-    background-color: rgb(116, 1, 55);
-    height: 80px;
-    border: 2px solid rgb(247, 6, 118);
-    margin: 10px;  
-}
-#bar:hover{
-    border: 2px solid rgb(113, 113, 210); 
-}
-#admin{
-    background-color: rgb(116, 1, 55);
-    height: 80px;
-    border: 2px solid rgb(247, 6, 118);
-    margin: 10px; 
-}
-#admin:hover{
-    border: 2px solid rgb(113, 113, 210); 
-}
-#pub{
-    background-color: rgb(116, 1, 55);
-    height: 80px;
-    border: 2px solid rgb(247, 6, 118);
-    margin: 10px; 
-}
-#pub:hover{
-    border: 2px solid rgb(113, 113, 210);
-}
-#restaurant{
-    background-color: rgb(116, 1, 55);
-    height: 80px;
-    border: 2px solid rgb(247, 6, 118);
-    margin: 10px;
-}
-#restaurant:hover{
-    border: 2px solid rgb(113, 113, 210);
-}
-#store{
-    background-color: rgb(116, 1, 55);
-    height: 80px;
-    border: 2px solid rgb(247, 6, 118);
-    margin: 10px; 
-}
-#store:hover{
-    border: 2px solid rgb(113, 113, 210);
-}
 aside{
     grid-area: aside;
     
@@ -139,7 +67,6 @@ footer{
     margin-top: 10px;
     margin-bottom: 10px;
     height: 60px;
-    padding-top: 10px;
     
 }
 .special:hover{

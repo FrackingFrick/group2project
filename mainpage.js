@@ -19,10 +19,10 @@ function renderOneProduct(product) {
     newElement.innerHTML = `
                 <div class="special"><span class="item-name">${product.name}</span>
                 <span class="item-description">${product.description}</span>
-                <span class="item-misc">${product.misc}</span>
+                <span class="item-misc">Our comment: ${product.misc}</span>
                 <span class="item-address">${product.info}</span>
                 <span class="item-price">Price level: ${product.price}</span>
-                <a href="${product.url}" class="item-url">${product.url}</a></div>
+                <a href="${product.url}" class="item-url">Homepage: ${product.url}</a></div>
                 </div>
     `
     findDiv.appendChild(newElement)        
@@ -31,6 +31,7 @@ function renderOneProduct(product) {
 const findMap = document.getElementById("googleMap");
 
 function showOnMap(product) {
+
 
     const mapMarker =  new google.maps.Marker({ 
         position: {lat:`${product.lat}`, lng:`${product.lng}`},
