@@ -133,6 +133,21 @@ footer{
     margin-top: 10px;
 
 }
+
+.special{
+    border: 2px solid rgb(247, 6, 118);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 60px;
+    padding-top: 10px;
+    
+}
+.special:hover{
+    border: 2px solid rgb(113, 113, 210);
+}
+a{
+    color: rgb(247, 6, 118);
+}
 @media screen and (max-width: 1000px) {
     
 }
