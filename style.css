@@ -17,7 +17,7 @@ select{
 header{
     grid-area: header;
     color: rgb(113, 113, 210);
-    font-size: 25px;
+    font-size: 32px;
     text-shadow: 2px 2px 4px rgb(247, 6, 118);
     height: 200px;
     font-family: 'Rajdhani', sans-serif;
@@ -74,7 +74,7 @@ footer{
     border: 2px solid rgb(247, 6, 118);
     margin-top: 10px;
     margin-bottom: 10px;
-    height: 80px;
+    height: 110px;
     padding-top: 5px;
     
 }

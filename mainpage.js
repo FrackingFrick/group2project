@@ -17,10 +17,10 @@ function renderOneProduct(product) {
     newElement.className = "content-item"
     newElement.setAttribute("onclick", "showOnMap();"); //"onclick","showOnMap(${product.name})"
     newElement.innerHTML = `
-                <div class="special"><span class="item-name">${product.name}</span>
-                <span class="item-description">${product.description}.</span>
-                <span class="item-address">${product.info}</span>
-                <span class="item-price">Price level: ${product.price}</span>
+                <div class="special"><span class="item-name">${product.name}</span> <br/>
+                <span class="item-description">${product.description}.</span><br/>
+                <span class="item-address">${product.info}</span><br/>
+                <span class="item-price">Price level: ${product.price}</span><br/>
                 <a href="${product.url}" class="item-url">Homepage: ${product.url}</a></div>
                 </div>
     `
