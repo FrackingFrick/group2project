@@ -51,5 +51,5 @@ function showOnMap(product) {
         title: `${product.name}`,    
         })
     
-    //findMap.appendChild(mapMarker)
+    findMap.appendChild(mapMarker)
 }
