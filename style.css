@@ -31,18 +31,19 @@ nav{
     margin-left: 10px;
     font-family: 'Rajdhani', sans-serif;
      
-
-
+}
+nav h2{
+    font-size: 26px;
 }
 button{
     width: 200px;
     padding: 10px;
     margin: 10px;
-    border: 2px solid rgb(247, 6, 118);
+    /* border: 2px solid rgb(247, 6, 118); */
     background-color: rgb(116, 1, 55);
     color: rgb(247, 6, 118);
     font-family: 'Rajdhani', sans-serif;
-    font-size: 16px;
+    font-size: 26px;
 }
 button:hover{
     border: 2px solid rgb(113, 113, 210);
@@ -53,6 +54,7 @@ main{
     padding-left: 50px;
     color: rgb(247, 6, 118);
     font-family: 'Rajdhani', sans-serif;
+    font-size: 26px;
     
 }
 
