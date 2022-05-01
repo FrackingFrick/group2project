@@ -11,12 +11,15 @@
     text-align: center;
  
 }
+select{
+    display: none;
+}
 header{
     grid-area: header;
     color: rgb(113, 113, 210);
     font-size: 25px;
     text-shadow: 2px 2px 4px rgb(247, 6, 118);
-    
+    height: 200px;
 
 
 }
@@ -76,6 +79,20 @@ footer{
 a{
     color: rgb(247, 6, 118);
 }
-@media screen and (max-width: 1000px) {
-    
+@media screen and (max-width: 800px) {
+    #content {
+        grid-template-columns: 0fr 10fr 2fr;
+    }
+    header {
+        font-size: 12px;
+        height: 80px;
+    }
+    nav {
+        display: none;
+        
+    }
+    select {
+        display: block;
+    }
+
 }
