@@ -18,7 +18,7 @@ function renderOneProduct(product) {
     newElement.setAttribute("onclick", "showOnMap();"); //"onclick","showOnMap(${product.name})"
     newElement.innerHTML = `
                 <div class="special"><span class="item-name">${product.name}</span> <br/>
-                <span class="item-description">${product.description}.</span><br/>
+                <span class="item-description">${product.description}</span><br/>
                 <span class="item-address">${product.info}</span><br/>
                 <span class="item-price">Price level: ${product.price}</span><br/>
                 <a href="${product.url}" class="item-url">Homepage: ${product.url}</a></div>
@@ -31,7 +31,7 @@ const findMap = document.getElementById("googleMap");
 
 function showOnMap(product) {
     var mapProp= {
-        center:new google.maps.LatLng(65.0124,25.4682),
+        center:new google.maps.LatLng(65.0124,25.4682),//<-- let's add here clicked place's coordinate
         zoom: 15,
         styles: [
       {
