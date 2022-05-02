@@ -21,9 +21,10 @@ header{
     text-shadow: 2px 2px 4px rgb(247, 6, 118);
     /* height: 200px; */
     font-family: 'Rajdhani', sans-serif;
-    width: 100%;
-    display: flex;
-    position: relative;
+    /*width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-image:linear-gradient(rgba(0,0,0,0.5),(rgba(0,0,0,0.5)),url(images/banner.png);*/ //need to check//
 }
 nav{
     grid-area: nav;
