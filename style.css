@@ -19,7 +19,7 @@ header{
     color: rgb(113, 113, 210);
     font-size: 32px;
     text-shadow: 2px 2px 4px rgb(247, 6, 118);
-    height: 150px;
+    /* height: 200px; */
     font-family: 'Rajdhani', sans-serif;
 
 
@@ -39,12 +39,11 @@ button{
     width: 200px;
     padding: 10px;
     margin: 10px;
-    /* border: 2px solid rgb(247, 6, 118); */
+    border: 2px solid rgb(116, 1, 55);
     background-color: rgb(116, 1, 55);
     color: rgb(247, 6, 118);
     font-family: 'Rajdhani', sans-serif;
     font-size: 26px;
-    border: 2px solid rgb(116, 1, 55);
 }
 button:hover{
     border: 2px solid rgb(113, 113, 210);
@@ -56,7 +55,6 @@ main{
     color: rgb(247, 6, 118);
     font-family: 'Rajdhani', sans-serif;
     font-size: 16px;
-    padding-top: 0px;
     
 }
 
@@ -93,7 +91,7 @@ a{
         grid-template-columns: 0fr 10fr 2fr;
     }
     header {
-        font-size: 12px;
+        font-size: 16px;
         height: 80px;
     }
     nav {
