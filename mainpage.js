@@ -47,9 +47,10 @@ function showOnMap(product) {
 
     const mapMarker =  new google.maps.Marker({ 
         position: {lat:`${product.lat}`, lng:`${product.lng}`},
-        map:map,
+        map,
         title: `${product.name}`,    
         })
-    
+        
     findMap.appendChild(mapMarker)
 }
+ ;
