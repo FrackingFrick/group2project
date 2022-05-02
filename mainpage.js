@@ -31,7 +31,7 @@ const findMap = document.getElementById("googleMap");
 
 function showOnMap(product) {
     var mapProp= {
-        center:new google.maps.LatLng(65.0124,25.4682),//<-- let's add here clicked place's coordinate
+        center:new google.maps.LatLng(65.0164,25.4682),//<-- let's add here clicked place's coordinate
         zoom: 15,
         styles: [
       {
