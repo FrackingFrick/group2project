@@ -22,6 +22,8 @@ header{
     /* height: 200px; */
     font-family: 'Rajdhani', sans-serif;
     width: 100%;
+    display: flex;
+    position: relative;
 }
 nav{
     grid-area: nav;
@@ -31,6 +33,7 @@ nav{
     font-family: 'Rajdhani', sans-serif;
      
 }
+
 nav h2{
     font-size: 26px;
 }
