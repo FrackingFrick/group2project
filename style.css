@@ -7,7 +7,7 @@
     "header header header"
     "nav main aside"
     "footer footer footer";
-    background-color: rgb(116, 1, 55);
+    background-color: rgb(97, 0, 45);
     text-align: center;
  
 }
@@ -16,17 +16,17 @@ select{
 }
 header{
     grid-area: header;
-    color: rgb(113, 113, 210);
+    color: rgb(22, 196, 224);
     font-size: 32px;
-    text-shadow: 2px 2px 4px rgb(247, 6, 118);
+    text-shadow: 2px 2px 4px rgb(225, 0, 105);
     /* height: 200px; */
     font-family: 'Rajdhani', sans-serif;
     width: 100%;
 }
 nav{
     grid-area: nav;
-    color: rgb(247, 6, 118);
-    border: 2px solid rgb(247, 6, 118);
+    color: rgb(225, 0, 105);
+    border: 2px solid rgb(225, 0, 105);
     margin-left: 10px;
     font-family: 'Rajdhani', sans-serif;
      
@@ -38,20 +38,20 @@ button{
     width: 200px;
     padding: 10px;
     margin: 10px;
-    border: 2px solid rgb(116, 1, 55);
-    background-color: rgb(116, 1, 55);
-    color: rgb(247, 6, 118);
+    border: 2px solid rgb(97, 0, 45);
+    background-color: rgb(97, 0, 45);
+    color: rgb(225, 0, 105);
     font-family: 'Rajdhani', sans-serif;
     font-size: 26px;
 }
 button:hover{
-    border: 2px solid rgb(113, 113, 210);
-    background-color: rgb(170, 170, 207); 
+    border: 2px solid rgb(7, 128, 148);
+    background-color: rgb(22, 196, 224); 
 }
 main{
     grid-area: main;
     padding-left: 50px;
-    color: rgb(247, 6, 118);
+    color: rgb(225, 0, 105);
     font-family: 'Rajdhani', sans-serif;
     font-size: 16px;
     
@@ -65,14 +65,14 @@ aside{
 footer{
     grid-area: footer;
     padding-top: 10px;
-    color: rgb(247, 6, 118);
-    border: 2px solid rgb(247, 6, 118);
+    color: rgb(225, 0, 105);
+    border: 2px solid rgb(225, 0, 105);
     margin-top: 10px;
 
 }
 
 .special{
-    border: 2px solid rgb(247, 6, 118);
+    border: 2px solid rgb(225, 0, 105);
     margin-top: 10px;
     margin-bottom: 10px;
     height: 110px;
@@ -80,10 +80,10 @@ footer{
     
 }
 .special:hover{
-    border: 2px solid rgb(113, 113, 210);
+    border: 2px solid rgb(22, 196, 224);
 }
 a{
-    color: rgb(247, 6, 118);
+    color: rgb(225, 0, 105);
 }
 @media screen and (max-width: 800px) {
     #content {
@@ -102,10 +102,10 @@ a{
         margin-bottom: 10px;
         margin-left: 40px;
         text-align: center;
-        border: 1px solid rgb(247, 6, 118);
+        border: 1px solid rgb(225, 0, 105);
         border-radius: 3px;
-        background-color: rgb(116, 1, 55);
-        color: rgb(247, 6, 118);
+        background-color: rgb(97, 0, 45);
+        color: rgb(225, 0, 105);
         font-size: 12px;
         font-family: 'Rajdhani', sans-serif;
     }
