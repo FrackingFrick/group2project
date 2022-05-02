@@ -33,15 +33,36 @@
         <main>
             <h2>Welcome to Oulu!</h2>
             <p>Just because you are new in town doesn't mean you need to stay home or sober! The purpose of this site is to give you, a new student, some ideas on what to do when school day is over.</p>
-            <select id="dropdown">
-                <option value="rest2">Restaurants</option>
-                <option value="bars2">Bars & Nightclubs</option>
-                <option value="pubs2">Pubs</option>
-                <option value="cafes2">Cafes & Bakeries</option>
-                <option value="specs2">Specialty stores</option>
-                <option value="parks2">Parks, hangouts & culture</option>
-                <option value="hypes2">Hypermarkets</option>
-                <option value="admis2">Administration</option>
+            <select id="dropdown", onchange="displayResult(this.value)">
+                   <option value="rest">
+                        <button >
+                       Restaurants
+                        </button>
+                    </option> 
+                    <option value="bars">
+                        <button >
+                            Bars & Nightclubs
+                        </button>
+                    </option>
+                    <option value="pubs">
+                        <button>Pubs</button>
+                    </option>
+                    <option value="cafes">
+                        <button>Cafes & Bakeries</button>
+                    </option>
+                    <option value="specs">
+                        <button>Specialty stores</button>
+                    </option>
+                    <option value="parks">
+                        <button>Parks, hangouts & culture</button>
+                    </option>
+                    <option value="hypes">
+                        <button>Hypermarkets</button>
+                    </option>
+                    <option value="admis">
+                        <button>Administration</button>
+                    </option>
+                
             </select>
             <section id="content container">
                 <div class="content-items", id="content-items">
