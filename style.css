@@ -21,8 +21,7 @@ header{
     text-shadow: 2px 2px 4px rgb(247, 6, 118);
     height: 150px;
     font-family: 'Rajdhani', sans-serif;
-
-
+    width: 100%;
 }
 nav{
     grid-area: nav;
