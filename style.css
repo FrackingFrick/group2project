@@ -10,11 +10,19 @@
     background-color: rgb(116, 1, 55);
     text-align: center;
     display: flexbox;
+    min-height: 100%;
+    height: 100%;
+    height: auto;
+    width: 100%;
     -webkit-background-size: 100% 100%;
   -moz-background-size: 100% 100%;
   -o-background-size: 100% 100%;
   background-size:  100% 100%;
-  height: auto;
+  
+}
+#footer {
+    height: 110px;
+    border: 1px solid;
 }
 select{
     display: none;
@@ -24,16 +32,14 @@ header{
     color: rgb(113, 113, 210);
     font-size: 32px;
     text-shadow: 2px 2px 4px rgb(247, 6, 118);
-    /* height: 200px; */
     font-family: 'Rajdhani', sans-serif;
     width: 100%;
-    position: relative; */
-    /*display: flex;*/
+    position: relative; 
     justify-content: center ;
     align-items: center;
     background: linear-gradient( rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/banner2.png)50% 50% / 100% no-repeat fixed;
     background-size:cover;
-    height: 70vh
+    height: 70vh;
 }
 footer{
     grid-area: footer;
@@ -123,16 +129,18 @@ a{
     }
     header {
         height: auto;
-        width: 95%;
-        background-size: 100% auto;
+        width: 100%;
         padding: 10px;
-
+        height: 100%;
+        height: auto;
+        width: 95%;
     }
     img {
         width: 300px;
         height: 150px;
         
     }
+    
     nav {
         display: none;
         
@@ -167,6 +175,12 @@ a{
     }
     footer {
         font-size: 12px;
+        width: 100%;
+        text-align: center;
+        padding: 30px 0;
+
+}
+    
     }
 
 
