@@ -15,7 +15,7 @@ const findDiv = document.getElementById("content container");
 function renderOneProduct(product) {
     const newElement = document.createElement("div")
     newElement.className = "content-item"
-    newElement.setAttribute("onclick", "setCoord();"); //"onclick","showOnMap(${product.name})" "showOnMap()"
+    newElement.setAttribute("onclick", "showOnMap();"); //"onclick","showOnMap(${product.name})" "showOnMap()"
     newElement.innerHTML = `
                 <div class="special"><span class="item-name", data-coordinates="{lat:${product.lat}, lng:${product.lng}}">${product.name}</span> <br/>
                 <span class="item-description">${product.description}</span><br/>
@@ -33,7 +33,7 @@ const mapCoords = this.document.getElementById("item-name");
 
 function showOnMap(product) {
     var mapProp= {
-        center:new google.maps.LatLng(65.0164,25.4682),//<-- let's add here clicked place's coordinate
+        center:new google.maps.LatLng(65.0101179,25.4715299),//<-- let's add here clicked place's coordinate
         zoom: 15,
         styles: [
       {
@@ -48,7 +48,7 @@ function showOnMap(product) {
 
 
     const mapMarker =  new google.maps.Marker({ 
-        position: {lat:65.0164, lng: 25.4683}, //<-- They are random coords so we can make the logic work
+        position: {lat:65.0101179, lng: 25.4715299}, //<-- They are random coords so we can make the logic work
         map,
         title: "Here! ^-^",    
         })
