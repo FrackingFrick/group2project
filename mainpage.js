@@ -15,7 +15,7 @@ const findDiv = document.getElementById("content container");
 function renderOneProduct(product) {
     const newElement = document.createElement("div")
     newElement.className = "content-item"
-    newElement.setAttribute("onclick", "setCoord();"); //"onclick","showOnMap(${product.name})"
+    newElement.setAttribute("onclick", "setCoord();"); //"onclick","showOnMap(${product.name})" "showOnMap()"
     newElement.innerHTML = `
                 <div class="special"><span class="item-name", data-coordinates="{lat:${product.lat}, lng:${product.lng}}">${product.name}</span> <br/>
                 <span class="item-description">${product.description}</span><br/>
@@ -48,9 +48,9 @@ function showOnMap(product) {
 
 
     const mapMarker =  new google.maps.Marker({ 
-        position: {lat:`${product.lat}`, lng:`${product.lng}`},
+        position: {lat:65.0164, lng: 25.4683}, //<-- They are random coords so we can make the logic work
         map,
-        title: `${product.name}`,    
+        title: "Here! ^-^",    
         })
         
     findMap.appendChild(mapMarker)
