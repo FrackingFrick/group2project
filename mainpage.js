@@ -15,9 +15,9 @@ const findDiv = document.getElementById("content container");
 function renderOneProduct(product) {
     const newElement = document.createElement("div")
     newElement.className = "content-item"
-    newElement.setAttribute("onclick", "showOnMap();"); //"onclick","showOnMap(${product.name})"
+    newElement.setAttribute("onclick", "setCoord();"); //"onclick","showOnMap(${product.name})"
     newElement.innerHTML = `
-                <div class="special"><span class="item-name">${product.name}</span> <br/>
+                <div class="special"><span class="item-name", data-coordinates="{lat:${product.lat}, lng:${product.lng}}">${product.name}</span> <br/>
                 <span class="item-description">${product.description}</span><br/>
                 <span class="item-address">${product.info}</span><br/>
                 <span class="item-price">Price level: ${product.price}</span><br/>
@@ -26,8 +26,10 @@ function renderOneProduct(product) {
     `
     findDiv.appendChild(newElement)        
 }}
-
+let coords = "";
 const findMap = document.getElementById("googleMap");
+const mapCoords = this.document.getElementById("item-name");
+
 
 function showOnMap(product) {
     var mapProp= {
@@ -53,4 +55,9 @@ function showOnMap(product) {
         
     findMap.appendChild(mapMarker)
 }
- ;
+function setCoord(e) {
+  let coords = e.dataset.coordinates;
+ 
+  
+   showOnMap();
+};
