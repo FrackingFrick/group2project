@@ -10,6 +10,11 @@
     background-color: rgb(116, 1, 55);
     text-align: center;
     display: flexbox;
+    -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size:  100% 100%;
+  height: auto;
 }
 select{
     display: none;
@@ -24,9 +29,24 @@ header{
     width: 100%;
     position: relative; */
     /*display: flex;*/
+    justify-content: center ;
+    align-items: center;
+    background: linear-gradient( rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/banner2.png)50% 50% / 100% no-repeat fixed;
+    background-size:cover;
+    height: 70vh
+}
+footer{
+    grid-area: footer;
+    color: rgb(113, 113, 210);
+    font-size: 20px;
+    text-shadow: 2px 2px 4px rgb(247, 6, 118);
+    font-family: 'Rajdhani', sans-serif;
+    width: 100%;
     justify-content: center;
     align-items: center;
-    background: linear-gradient( rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/beach.png);
+    background: linear-gradient( rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/banner2.png) no-repeat center center fixed;
+    background-size:cover;
+    height: 50vh
 }
 img {
     width: 500px;
