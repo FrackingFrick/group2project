@@ -1,0 +1,17 @@
+﻿id;name;description;price;info;misc;url;lat;lng
+1;Oulu City Library;Main City Library with free Wi-Fi;Free;Kaarlenväylä 3;Free Wi-fi and lots of space to study. Good selection to books, magazine and music.;https://www.ouka.fi/oulu/library/;65.015382;25.4634099
+2;Oulun Taidemuseo;Oulu Museum of Art;$;Kasarmintie 9;Changing exhibits and interesting artists.;https://www.ouka.fi/oulu/luuppi/oulun-taidemuseo;65.0180296;25.4818307
+3;Oulun Teatteri;Theater;$$;Kaarlenväylä 2;;https://teatteri.ouka.fi/;65.0150885;25.4620873
+4;Ainolan puisto;Outside park;Free;Ainolanpolku 1;A large central park.;https://www.ouka.fi/oulu/ymparisto-ja-luonto/puistot-ja-viheralueet;65.0163194;25.4766669
+5;Kiikeli;Outside park;Free;Kiikelinlaituri;A small beach and park. The usual go-to meetup place.;https://www.ouka.fi/oulu/ymparisto-ja-luonto/puistot-ja-viheralueet;65.0135216;25.4598759
+6;Swimming pool Raksila;Swimming;$;Pikkukankaantie 3;;https://www.ouka.fi/oulu/liikunta-ja-ulkoilu/oulun-uimahalli;65.0091643;25.4987187
+7;Finnkino;Movie Theater;$$;Torikatu 32;;https://www.finnkino.fi/ohjelmisto/plaza-oulu;65.0111427;25.4652641
+8;Star;Movie Theater;$;Kalliotie 6;Student discount;https://www.elokuvateatteristar.fi/hinnasto;65.0245694;25.4827496
+9;Tori Market place;Summer market shops place;$;Kauppatori;;https://oulumarket.com/;65.0138573;25.4640796
+10;Cultural Centre Valve;Cultural center: theatre stages, a cinema, galleries, workshops ;$$;Hallituskatu 7;Free entry and interesting exhibits.;https://www.kulttuurivalve.fi/fi/;65.0130255;25.4729633
+11;Tietomaa Science Centre;Tietomaa is a science centre in Oulu;$;Nahkatehtaankatu 6;;https://www.ouka.fi/oulu/luuppi/tiedekeskus-tietomaa;65.0181986;25.486651
+12;Nallikari Beach;Beach;Free;Nallikarinranta;;https://nallikari.fi/en/services/nallikari/;65.0303487;25.4116457
+13;Hupisaaret Islands;The Hupisaaret Islands City Park is a public urban park in the Myllytulli district in central Oulu;Free;City center;;https://visitoulu.fi/en/tuote/hupisaaret-2/;65.018828035285;25.4801271260471
+14;Botanical Gardens (University of Oulu);Scientific gardens;Free;Kaitoväylä 5;;https://www.oulu.fi/fi/yliopisto/kasvitieteellinen-puutarha;65.062788;25.4843456
+15;Northern Ostrobothnia Museum;Museum of cultural history;$;Ainolanpolku 1;Offers sometimes free entry. Hosts interesting exhibits.;https://www.ouka.fi/oulu/luuppi/pohjois-pohjanmaan-museo;65.0163194;25.4766669
+16;Ouluhalli;Multi-purpose hall for sports, and events;$;Ouluhallintie 20;;https://www.ouka.fi/oulu/liikunta-ja-ulkoilu/ouluhalli;65.0075212;25.5013198

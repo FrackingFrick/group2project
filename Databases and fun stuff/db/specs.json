@@ -1,0 +1,134 @@
+[
+ {
+   "id": 1,
+   "name": "Pikku Panda Teahouse and Teashop",
+   "description": "Tea and dumplings",
+   "price": "$$",
+   "info": "Kirkkokatu 22",
+   "misc": "Delicious dumplings and amazing selection tea",
+   "url": "https://www.pikkupanda.fi/",
+   "lat": 65.0093588,
+   "lng": 25.4662337
+ },
+ {
+   "id": 2,
+   "name": "Fantasiapelit",
+   "description": "Tabletop games, manga and comicbooks",
+   "price": "$$",
+   "info": "Rautatienkatu 10",
+   "misc": "Good source of games, manga and comicbooks",
+   "url": "https://www.fantasiapelit.com/",
+   "lat": 65.0111631,
+   "lng": 25.4823308
+ },
+ {
+   "id": 3,
+   "name": "Aasia Market",
+   "description": "Large selection of Asian food items",
+   "price": "$",
+   "info": "Asemakatu 32",
+   "misc": "Great selection different Asian products, ie. noodles, sauces and spices",
+   "url": "https://www.aasiamarket.fi/en/main-page/",
+   "lat": 65.0114257,
+   "lng": 25.4826911
+ },
+ {
+   "id": 4,
+   "name": "Chocosomnia",
+   "description": "Candy",
+   "price": "$$",
+   "info": "Isokatu 28",
+   "misc": "Locally made chocolate",
+   "url": "https://www.aasiamarket.fi/en/main-page/",
+   "lat": 65.0109638,
+   "lng": 25.4712239
+ },
+ {
+   "id": 5,
+   "name": "Karkkipäivä (Valkea)",
+   "description": "Candy",
+   "price": "$$",
+   "info": "Isokatu 25",
+   "misc": "Candyshop in Valkea. Big selection of different candies.",
+   "url": "https://karkkipaiva.fi/",
+   "lat": 65.0111096,
+   "lng": 25.4736108
+ },
+ {
+   "id": 6,
+   "name": "Turun Sarjakuvakauppa (Valve)",
+   "description": "Comicbooks",
+   "price": "$$",
+   "info": "Hallituskatu 7",
+   "misc": "Comicbooks from small publishers and artists",
+   "url": "https://www.sarjakuvakauppa.fi/",
+   "lat": 65.0117481,
+   "lng": 25.4781738
+ },
+ {
+   "id": 7,
+   "name": "Underground",
+   "description": "Gothic and rockabilly clothing",
+   "price": "$$$",
+   "info": "Hallituskatu 29",
+   "misc": "This is where you can buy lot of goth and rockabilly clothes. Carries brands like Killstar, Hellbunny, Banned and Hearts%Roses.",
+   "url": "https://www.undergroundstore.fi/",
+   "lat": 65.011532,
+   "lng": 25.4798993
+ },
+ {
+   "id": 8,
+   "name": "Cybershop",
+   "description": "Gothic, punk and rockclothing. LGBT-items",
+   "price": "$$",
+   "info": "Kauppurienkatu 13",
+   "misc": "You can find some alternative clothing here. Carries ie. Restyle. Good source of LGBT- goods",
+   "url": "https://www.cybershop.fi/",
+   "lat": 65.0117367,
+   "lng": 25.4707318
+ },
+ {
+   "id": 9,
+   "name": "Pilailupuoti",
+   "description": "Costumes",
+   "price": "$$",
+   "info": "Kauppurienkatu 34",
+   "misc": "Costumes, specialty lenses and cosmetics. ",
+   "url": "https://www.pilailupuoti.com/etusivu-laatikot/",
+   "lat": 65.009523,
+   "lng": 25.4780284
+ },
+ {
+   "id": 10,
+   "name": "Levykauppa Äx",
+   "description": "Music store",
+   "price": "$",
+   "info": "Hallituskatu 29 B",
+   "misc": "New and used CDs and LPs. ",
+   "url": "https://www.levykauppax.fi/",
+   "lat": 65.011532,
+   "lng": 25.4798993
+ },
+ {
+   "id": 11,
+   "name": "Suomalainen Kirjakauppa (Valkea)",
+   "description": "Books, arts equipment and office equipment",
+   "price": "$$",
+   "info": "Isokatu 24-25",
+   "misc": "Books, paints, brushes and office stuff. Also some puzzles!",
+   "url": "https://www.suomalainen.com/pages/oulu?gclid=EAIaIQobChMIjPagk9Sy9wIV5USRBR0BdwKvEAAYASAAEgIwNvD_BwE",
+   "lat": 65.0114598,
+   "lng": 25.4718767
+ },
+ {
+   "id": 12,
+   "name": "SPR Kontti",
+   "description": "Second Hand Shop",
+   "price": "$",
+   "info": "Tyrnäväntie 14",
+   "misc": "They give their profit to Finnish Red Cross. You can find clothes, furniture and household goods.",
+   "url": "https://sprkontti.fi/oulun-kontti",
+   "lat": 64.9951222,
+   "lng": 25.4582384
+ }
+]

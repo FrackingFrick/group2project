@@ -1,0 +1,90 @@
+[
+ {
+   "id": 1,
+   "name": "Rooster",
+   "description": "Cafe, bar and restaurant",
+   "price": "$$",
+   "info": "Torikatu 26",
+   "misc": "Good burgers, has a downstair pub floor.",
+   "url": "https://rooster.fi/",
+   "lat": 65.01152,
+   "lng": 25.4667066
+ },
+ {
+   "id": 2,
+   "name": "Oluthuone Leskinen",
+   "description": "Pub",
+   "price": "$$",
+   "info": "Kirkkokatu 10",
+   "misc": "The original after work place of the City. More mature oriented, but culturally significant. Has a large collection of seasonal beers.",
+   "url": "https://www.leskinen.fi/",
+   "lat": 65.0120581,
+   "lng": 25.4703566
+ },
+ {
+   "id": 3,
+   "name": "Snooker Time",
+   "description": "Pub & Bar",
+   "price": "$",
+   "info": "Asemakatu 28",
+   "misc": "A good place if you're looking for a place to talk to strangers.",
+   "url": "http://snookertime.net/",
+   "lat": 65.0139113,
+   "lng": 25.4746054
+ },
+ {
+   "id": 4,
+   "name": "Kuluma",
+   "description": "Pub & Cafe",
+   "price": "$$",
+   "info": "Kauppurienkatu 5",
+   "misc": "An all-around place. Has everything for everyone. (Tip: next to Kauppuri 5)",
+   "url": "https://kuluma.fi/",
+   "lat": 65.0128863,
+   "lng": 25.4668808
+ },
+ {
+   "id": 5,
+   "name": "Heinäpään Oluttupa",
+   "description": "Pub",
+   "price": "$$",
+   "info": "Isokatu 77",
+   "misc": "A local pub of the unique Heinäpää region, filled with Heinäpää regulars.",
+   "url": "https://www.instagram.com/oluttupa90120/?hl=en",
+   "lat": 65.0057474,
+   "lng": 25.4643623
+ },
+ {
+   "id": 6,
+   "name": "St. Michael",
+   "description": "Pub",
+   "price": "$$",
+   "info": "Hallituskatu 13",
+   "misc": "Self explanatory, really...",
+   "url": "http://www.stmichael.fi/",
+   "lat": 65.0127425,
+   "lng": 25.4754993
+ },
+ {
+   "id": 7,
+   "name": "Letkunpuiston Helmi",
+   "description": "Pub",
+   "price": "$",
+   "info": "Uusikatu 23",
+   "misc": "A good choice for some after work chilling.",
+   "url": "https://www.tulikuuma.fi/restaurant/pub-club-letkunpuiston-helmi/",
+   "lat": 65.0118483,
+   "lng": 25.476486
+ },
+ {
+   "id": 8,
+   "name": "Peppers",
+   "description": "Pub & Karaoke",
+   "price": "$$",
+   "info": "Isokatu 36",
+   "misc": "Never go here. I don't know many people who've entered this place and returned unchanged.",
+   "url": "https://www.karaokebar.net/peppers",
+   "lat": 65.0157691,
+   "lng": 25.4787288
+ }
+]

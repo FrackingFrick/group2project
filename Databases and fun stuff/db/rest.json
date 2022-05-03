@@ -1,0 +1,178 @@
+[
+ {
+   "id": 1,
+   "name": "Rooster",
+   "description": "Burgers",
+   "price": "$$",
+   "info": "Torikatu 26",
+   "misc": "A multi-level place. Upstair has a restaurant vibe, downstairs a pub vibe.",
+   "url": "https://rooster.fi/",
+   "lat": 65.01152,
+   "lng": 25.4667066
+ },
+ {
+   "id": 2,
+   "name": "Tuba",
+   "description": "Burgers and pizza",
+   "price": "$$$",
+   "info": "Mannenkatu 2",
+   "misc": "A great place for artesan burgers and pizzas. Post-modern vibes. Has a great selection of vegan options.",
+   "url": "https://www.tuba.fi/en/home/",
+   "lat": 65.0167172,
+   "lng": 25.4792844
+ },
+ {
+   "id": 3,
+   "name": "Kauppuri 5",
+   "description": "Burgers",
+   "price": "$$",
+   "info": "Kauppurienkatu 5",
+   "misc": "A small burger place. Said to have the best burgirs in Finland.",
+   "url": "https://www.kauppuri5.fi/",
+   "lat": 65.0128266,
+   "lng": 25.4669431
+ },
+ {
+   "id": 4,
+   "name": "Noodle Bar 9, Downtown",
+   "description": "Thai Restaurant",
+   "price": "$$",
+   "info": "Hallituskatu 9",
+   "misc": "Best noodles in town.",
+   "url": "https://noodlebar9.fi/",
+   "lat": 65.0117481,
+   "lng": 25.4781738
+ },
+ {
+   "id": 5,
+   "name": "Noodle Bar 9, Tuira",
+   "description": "Thai Restaurant",
+   "price": "$$",
+   "info": "Merikoskenkatu 9",
+   "misc": "Best noodles in town.",
+   "url": "https://noodlebar9.fi/",
+   "lat": 65.0254284,
+   "lng": 25.4695327
+ },
+ {
+   "id": 6,
+   "name": "Zivago",
+   "description": "Fusion restaurant",
+   "price": "$$",
+   "info": "Kirkkokatu 29",
+   "misc": "A trendy post-industrial place with a heart for locally produced and customer friendliness. Good vegan options.",
+   "url": "https://zivago.fi/",
+   "lat": 65.0107469,
+   "lng": 25.469306
+ },
+ {
+   "id": 7,
+   "name": "45 Special",
+   "description": "Gastropub. Also a bar/nightclub.",
+   "price": "$$",
+   "info": "Saaristonkatu 12",
+   "misc": "Gastropub, quality food. Shares its' kitchen with Zivago.",
+   "url": "https://www.45special.com/en/",
+   "lat": 65.0130029,
+   "lng": 25.4622415
+ },
+ {
+   "id": 8,
+   "name": "Amarillo",
+   "description": "Burgers and grill",
+   "price": "$$",
+   "info": "Kirkkokatu 15",
+   "misc": "Delicious food and great drinks. Better than Amarillo in Tampere.",
+   "url": "https://www.raflaamo.fi/fi/ravintola/oulu/amarillo-oulu",
+   "lat": 65.0123982,
+   "lng": 25.4719751
+ },
+ {
+   "id": 9,
+   "name": "Garam Masala",
+   "description": "Indian Restaurant",
+   "price": "$$",
+   "info": "Kajaaninkatu 27",
+   "misc": "An authentic Indian restaurant in city center, and quite close to railway sation. Vegetarian and Vegan options also available.",
+   "url": "https://www.garammasala-oulu.fi/",
+   "lat": 65.0122502,
+   "lng": 25.4839302
+ },
+ {
+   "id": 10,
+   "name": "Pure Maku",
+   "description": "Ramen",
+   "price": "$$",
+   "info": "Pakkahuoneenkatu 5",
+   "misc": "Fantastic ramen. You can get free extra filling with student card.",
+   "url": "https://www.facebook.com/pure.maku.eu/",
+   "lat": 65.0135819,
+   "lng": 25.4686302
+ },
+ {
+   "id": 11,
+   "name": "Da Mario",
+   "description": "Pizza",
+   "price": "$$",
+   "info": "Torikatu 24",
+   "misc": "Huge pizzas and tasty as well",
+   "url": "https://www.damario.fi/",
+   "lat": 65.0118152,
+   "lng": 25.4669948
+ },
+ {
+   "id": 12,
+   "name": "Da Max",
+   "description": "Pizza and kebab",
+   "price": "$$",
+   "info": "Kauppurienkatu 5",
+   "misc": "Restaurant where you can get, kebab and pizzas. Pizzas are quite good.",
+   "url": "https://www.facebook.com/RavintolaDaMaX/",
+   "lat": 65.0128266,
+   "lng": 25.4669431
+ },
+ {
+   "id": 13,
+   "name": "Itsudemo",
+   "description": "Sushi",
+   "price": "$$",
+   "info": "Uusikatu 26",
+   "misc": "Nice sushi buffet. ",
+   "url": "https://itsudemo.fi/oulu/",
+   "lat": 65.0115968,
+   "lng": 25.4749245
+ },
+ {
+   "id": 14,
+   "name": "Café Aitta9",
+   "description": "Restaurant",
+   "price": "$$",
+   "info": "Aittatori 9",
+   "misc": "One of the authentic retsuants in Oulu, at very good loaction. But could be a little expensive.",
+   "url": "https://cafeaitta9.fi/",
+   "lat": 65.0133645,
+   "lng": 25.4628747
+ },
+ {
+   "id": 15,
+   "name": "Uleåborg",
+   "description": "Restaurant",
+   "price": "$$$",
+   "info": "Aittatori 4-5",
+   "misc": "Good for people who want to try some authentic Finnish cuisine!! It is a little expensive compared to other restuarants.",
+   "url": "https://www.uleaborg.fi/",
+   "lat": 65.01351,
+   "lng": 25.46365
+ },
+ {
+   "id": 16,
+   "name": "Juvenes Café Hub",
+   "description": "Restaurant",
+   "price": "$",
+   "info": "Erkki Koiso-Kanttilan katu",
+   "misc": "A nice cafe in University of Oulu, which is quite affordable lunch for studnets also.",
+   "url": "https://www.juvenes.fi/hub",
+   "lat": 65.05841,
+   "lng": 25.46997
+ }
+]

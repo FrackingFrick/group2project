@@ -1,0 +1,156 @@
+[
+ {
+   "id": 1,
+   "name": "Robert's coffee",
+   "description": "Cafe",
+   "price": "€€",
+   "info": "Isokatu 28",
+   "misc": "Nice and cosy atmosphere in cafe! Good coffee and",
+   "url": "https://robertscoffee.com/",
+   "lat": 65.0109638,
+   "lng": 25.4712239
+ },
+ {
+   "id": 2,
+   "name": "Coffee House Oulu",
+   "description": "Cafe",
+   "price": "€€",
+   "info": "Pakkahuoneenkatu 16",
+   "misc": "Loving the place, good coffee and tea!",
+   "url": "https://www.raflaamo.fi/fi/ravintola/oulu/coffee-house-oulu",
+   "lat": 65.0121404,
+   "lng": 25.4729574
+ },
+ {
+   "id": 3,
+   "name": "Caffe Dolce Oulu",
+   "description": "Cafe",
+   "price": "€€",
+   "info": "Hallituskatu 30",
+   "misc": "Cosy little cafe. They have delicious soups, pastries and other lunches.",
+   "url": "https://www.facebook.com/CaffeDolceOulu/",
+   "lat": 65.0112071,
+   "lng": 25.4795119
+ },
+ {
+   "id": 4,
+   "name": "Espresso House Oulu Rotuaari",
+   "description": "Cafe",
+   "price": "€€",
+   "info": "Kirkkokatu 8",
+   "misc": "Okay coffee but the openings hour are quite fine.",
+   "url": "https://fi.espressohouse.com/coffee-shops/oulu-rotuaari/",
+   "lat": 65.0124121,
+   "lng": 25.4708748
+ },
+ {
+   "id": 5,
+   "name": "La Torrefazione",
+   "description": "Cafe",
+   "price": "€€",
+   "info": "Isokatu 25",
+   "misc": "Calm and nice atmosphere! Good for spending time with your friends!",
+   "url": "https://www.latorre.fi/",
+   "lat": 65.0140828,
+   "lng": 25.4758127
+ },
+ {
+   "id": 6,
+   "name": "Puistokahvila Makia",
+   "description": "Cafe",
+   "price": "€€",
+   "info": "Otto Karhi Park",
+   "misc": "Delicious extras and good coffee.",
+   "url": "https://ravintolapuistola.fi/",
+   "lat": 65.0167172,
+   "lng": 25.4792844
+ },
+ {
+   "id": 7,
+   "name": "Bacaro Doppio, Oulu",
+   "description": "Cafe",
+   "price": "€€",
+   "info": "Isokatu 25",
+   "misc": "A chain place.",
+   "url": "https://www.raflaamo.fi/en/restaurant/oulu/bacaro-doppio-oulu",
+   "lat": 65.0111096,
+   "lng": 25.4736108
+ },
+ {
+   "id": 8,
+   "name": "Konditoria-Kahvila Sofia",
+   "description": "Cafe",
+   "price": "€€",
+   "info": "Kauppurienkatu 14-16",
+   "misc": "Very nice bakery, their chcocolate cake is one of the best!",
+   "url": "https://www.pullapirtti.fi/Konditoriakahvila_Sofia",
+   "lat": 65.0109457,
+   "lng": 25.4732929
+ },
+ {
+   "id": 9,
+   "name": "Kreema Oy",
+   "description": "Bakery",
+   "price": "€€",
+   "info": "Kainuuntie 1",
+   "misc": "Nice small cafe, and nice pasteries!",
+   "url": "https://www.kreema.fi/",
+   "lat": 65.0074127,
+   "lng": 25.4832612
+ },
+ {
+   "id": 10,
+   "name": "Huovinen's Bakery",
+   "description": "Bakery",
+   "price": "€€",
+   "info": "Kangaskontiontie 12",
+   "misc": "One of the best and famous bakery in Oulu! They sell from breads to cakes!!",
+   "url": "https://huovisenleipomo.fi/",
+   "lat": 64.9817738,
+   "lng": 25.5701727
+ },
+ {
+   "id": 11,
+   "name": "Huovisen Leipomo",
+   "description": "Bakery",
+   "price": "€€",
+   "info": "Pihtakuja 1",
+   "misc": "One of the best and famous bakery in Oulu! They sell from breads to cakes! And the cakes look great and delicious!",
+   "url": "https://huovisenleipomo.fi/",
+   "lat": 65.0041714,
+   "lng": 25.5317468
+ },
+ {
+   "id": 12,
+   "name": "Jaanan Puoti",
+   "description": "Patisserie",
+   "price": "€€",
+   "info": "Kauppurienkatu 3",
+   "misc": "It's a small cozy cafe, and patisserie where you can buy freshly baked traditional Finnish breads.",
+   "url": "https://www.facebook.com/jaananpuotioulu/",
+   "lat": 65.0109457,
+   "lng": 25.4732929
+ },
+ {
+   "id": 13,
+   "name": "Pulla-Pirtti Oy",
+   "description": "Bakery",
+   "price": "€€",
+   "info": "Lepolantie 17",
+   "misc": "It's a bakery where you can get freshly baked, buns,  ",
+   "url": "https://www.pullapirtti.fi/",
+   "lat": 64.9506427,
+   "lng": 25.5067855
+ },
+ {
+   "id": 14,
+   "name": "Rauhala ravintola-patisserie",
+   "description": "Cafe",
+   "price": "€€",
+   "info": "Mannenkatu 4",
+   "misc": "Hosts sometimes some vegan and/or brunch buffets AND you get student discount!",
+   "url": "http://ravintolarauhala.fi/",
+   "lat": 65.0167172,
+   "lng": 25.4792844
+ }
+]

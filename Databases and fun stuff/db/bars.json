@@ -1,0 +1,167 @@
+[
+ {
+   "id": 1,
+   "name": "Mango Discobar",
+   "description": "Nightclub",
+   "price": "$$",
+   "info": "Saaristonkatu 16",
+   "misc": "Okay for studentparties. Music is quite loud.",
+   "url": "https://www.ravintola.fi/ravintola/mango-discobar/",
+   "lat": 65.0101179,
+   "lng": 25.4715299
+ },
+ {
+   "id": 2,
+   "name": "45 Special",
+   "description": "Nightclub & Restaurant",
+   "price": "$$",
+   "info": "Saaristonkatu 12",
+   "misc": "Rock bar with three floors. Has good pub food and student discounts.",
+   "url": "https://www.45special.com/",
+   "lat": 65.0130029,
+   "lng": 25.4622415
+ },
+ {
+   "id": 3,
+   "name": "Pataässä",
+   "description": "Bar & Nightclub",
+   "price": "$$",
+   "info": "Pakkahuoneenkatu 7",
+   "misc": "Karaoke bar.",
+   "url": "https://www.karaokebar.net/pataassaoulu",
+   "lat": 65.0134944,
+   "lng": 25.468972
+ },
+ {
+   "id": 4,
+   "name": "Ilona",
+   "description": "Nightclub",
+   "price": "$$",
+   "info": "Torikatu 21-23",
+   "misc": "A general nightclub.",
+   "url": "https://www.ilonaoulu.fi/",
+   "lat": 65.0109662,
+   "lng": 25.4670806
+ },
+ {
+   "id": 5,
+   "name": "Yöhuikka",
+   "description": "Nightclub",
+   "price": "$$",
+   "info": "Asemakatu 20",
+   "misc": "LGBT-friendly, fun club. Drinks are good and music is very good to dance to.",
+   "url": "http://www.yohuikka.fi/",
+   "lat": 65.012242,
+   "lng": 25.4801114
+ },
+ {
+   "id": 6,
+   "name": "Kaarlehovi",
+   "description": "Bar & Nightclub",
+   "price": "$$",
+   "info": "Kauppurienkatu 6",
+   "misc": "Only one way to find out.",
+   "url": "https://kaarlenholvi.fi/",
+   "lat": 65.0127114,
+   "lng": 25.4664926
+ },
+ {
+   "id": 7,
+   "name": "Ihku",
+   "description": "Nightclub",
+   "price": "$$",
+   "info": "Torikatu 22",
+   "misc": "A chain karaoke bar with Finn pop gigs.",
+   "url": "https://www.barihku.fi/",
+   "lat": 65.0120435,
+   "lng": 25.4675264
+ },
+ {
+   "id": 8,
+   "name": "Teerenpeli",
+   "description": "Bar",
+   "price": "$$",
+   "info": "Kauppurienkatu 8",
+   "misc": "A chain bar with their own brews.",
+   "url": "https://www.teerenpeli.com/fi/Ravintolat/Oulu-Teerenpeli",
+   "lat": 65.0123731,
+   "lng": 25.467648
+ },
+ {
+   "id": 9,
+   "name": "Snooker Time",
+   "description": "Pub & Bar",
+   "price": "$",
+   "info": "Asemakatu 28",
+   "misc": "A bar & pub. A place filled with culture and cultural people. Oh, and snooker tables.",
+   "url": "http://snookertime.net/",
+   "lat": 65.0117815,
+   "lng": 25.4818017
+ },
+ {
+   "id": 10,
+   "name": "Letkunpuiston Helmi",
+   "description": "Pub & Bar",
+   "price": "$",
+   "info": "Uusikatu 23",
+   "misc": "A mini Snooker Time. Doesn't have any snooker tables, so I guess you could call this place \"time\"?",
+   "url": "https://www.tulikuuma.fi/restaurant/pub-club-letkunpuiston-helmi/",
+   "lat": 65.0083447,
+   "lng": 25.4705897
+ },
+ {
+   "id": 11,
+   "name": "St. Michael",
+   "description": "Pub & Bar",
+   "price": "$$",
+   "info": "Hallituskatu 13",
+   "misc": "The local Irish pub/bar with one of the largest collections of whiskeys in Europe.",
+   "url": "http://www.stmichael.fi/",
+   "lat": 65.0127425,
+   "lng": 25.4754993
+ },
+ {
+   "id": 12,
+   "name": "Amarillo",
+   "description": "Bar & Restaurant",
+   "price": "$$",
+   "info": "Kirkkokatu 15",
+   "misc": "Super delicious cocktails!",
+   "url": "https://www.raflaamo.fi/fi/ravintola/oulu/amarillo-oulu",
+   "lat": 65.0123982,
+   "lng": 25.4719751
+ },
+ {
+   "id": 13,
+   "name": "Hemingway",
+   "description": "Bar",
+   "price": "$$",
+   "info": "Kirkkokatu 8",
+   "misc": "It's self explatory, don't you think?",
+   "url": "https://www.hemingways.fi/ravintolat/rotuaari",
+   "lat": 65.0124121,
+   "lng": 25.4708748
+ },
+ {
+   "id": 14,
+   "name": "1bar",
+   "description": "Bar",
+   "price": "$$",
+   "info": "Kauppurienkatu 5",
+   "misc": "A chill out place with unique cocktails.",
+   "url": "https://1bar.fi/",
+   "lat": 65.0128266,
+   "lng": 25.4669431
+ },
+ {
+   "id": 15,
+   "name": "Basso",
+   "description": "Nightclub",
+   "price": "$$",
+   "info": "Uusikatu 20",
+   "misc": "Cousin of 45 Special with it's own speciality in synthesized (alert for boomers: \"newer\") music.",
+   "url": "https://www.bassoclub.fi/",
+   "lat": 65.013,
+   "lng": 25.4769869
+ }
+]
