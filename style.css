@@ -27,12 +27,12 @@ header{
     /* height: 200px; */
     font-family: 'Rajdhani', sans-serif;
     width: 100%;
-    position: relative; */
+    position: relative; 
     /*display: flex;*/
     justify-content: center ;
     align-items: center;
     background: linear-gradient( rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/banner2.png)50% 50% / 100% no-repeat fixed;
-    background-size:cover;
+    background-size: cover;
     height: 70vh
 }
 footer{
@@ -60,6 +60,7 @@ nav{
     border: 2px solid rgb(247, 6, 118);
     margin-left: 10px;
     font-family: 'Rajdhani', sans-serif;
+    margin-top: 10px;
      
 }
 
