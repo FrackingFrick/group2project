@@ -9,7 +9,7 @@
     "footer footer footer";
     background-color: rgb(116, 1, 55);
     text-align: center;
- 
+    display: flexbox;
 }
 select{
     display: none;
@@ -21,11 +21,12 @@ header{
     text-shadow: 2px 2px 4px rgb(247, 6, 118);
     /* height: 200px; */
     font-family: 'Rajdhani', sans-serif;
-    /* width: 100%;
+    width: 100%;
     position: relative; */
-    display: flex;
+    /*display: flex;*/
     justify-content: center;
     align-items: center;
+    background: linear-gradient( rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/beach.png);
 }
 img {
     width: 500px;
