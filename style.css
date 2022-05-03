@@ -37,7 +37,7 @@ header{
     position: relative; 
     justify-content: center ;
     align-items: center;
-    background: linear-gradient( rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/banner2.png)50% 50% / 100% no-repeat fixed;
+    background: linear-gradient( rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/banner2.png) 50% 50% / 100% no-repeat fixed;
     background-size:cover;
     height: 70vh;
 }
